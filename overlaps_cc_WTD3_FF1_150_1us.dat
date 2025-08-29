@@ -1,0 +1,32 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+24 contacts
+atom1  atom2  overlap  distance
+HIS 99.O O     GLN 230.s CD   0.274  2.906
+HIS 99.O ND1   GLN 230.s OE1  0.145  2.975
+TRP 84.E CZ2   PHE 144.U HE1  0.024  2.676
+HIS 99.O O     GLN 230.s OE1  -0.036  2.996
+HIS 99.O O     GLN 230.s CG   -0.059  3.239
+PHE 144.U HE1  TRP 84.E CH2   -0.079  2.779
+GLY 122.h CA   CYS 24.Y N     -0.162  3.487
+PRO 30.n CB    TRP 34.h CZ2   -0.165  3.565
+HIS 99.O O     GLN 230.s HG2  -0.178  2.658
+CYS 24.Y O     GLY 122.h N    -0.216  3.321
+GLY 122.h N    CYS 24.Y HA    -0.230  2.855
+CYS 24.Y O     ALA 121.h C    -0.278  3.458
+CYS 24.Y O     ALA 121.h HA   -0.279  2.759
+GLY 122.h HA2  CYS 24.Y H3    -0.290  2.290
+GLY 122.h H    CYS 24.Y HA    -0.309  2.309
+GLY 122.h HA2  CYS 24.Y N     -0.315  2.940
+PHE 144.U CE1  TRP 84.E CH2   -0.324  3.724
+HIS 99.O O     GLN 230.s NE2  -0.335  3.440
+GLY 122.h CA   CYS 24.Y H3    -0.336  3.036
+TRP 84.E CZ2   PHE 144.U CE1  -0.354  3.754
+CYS 24.Y CA    GLY 122.h N    -0.375  3.700
+GLN 230.s CG   SER 100.O HB1  -0.380  3.080
+CYS 24.Y O     ALA 121.h CA   -0.394  3.574
+GLN 230.s OE1  HIS 99.O C     -0.395  3.575

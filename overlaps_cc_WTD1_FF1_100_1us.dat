@@ -1,0 +1,48 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+40 contacts
+atom1  atom2  overlap  distance
+TRP 34.P HE1   TRP 84.a CE2   0.422  2.278
+TRP 84.a NE1   TRP 34.P HE1   0.297  2.328
+TRP 34.P NE1   TRP 84.a CE2   0.243  3.082
+ALA 233.v CB   GLN 62.A HA    0.129  2.571
+TRP 34.P CZ3   GLY 83.a C     0.089  3.311
+TRP 34.P NE1   TRP 84.a NE1   0.066  3.184
+TRP 34.P CZ3   GLY 83.a HA1   0.057  2.643
+HIS 64.A ND1   GLU 224.v OE2  0.050  3.070
+TRP 34.P CH2   GLY 83.a CA    -0.036  3.436
+TRP 34.P CZ3   GLY 83.a CA    -0.038  3.438
+TRP 34.P HE1   TRP 84.a CZ2   -0.090  2.790
+GLU 224.v OE2  HIS 64.A CE1   -0.113  3.293
+TRP 34.P CH2   GLY 83.a HA1   -0.121  2.821
+TRP 34.P CH2   GLY 83.a C     -0.127  3.527
+TRP 34.P NE1   TRP 84.a CD2   -0.135  3.460
+TRP 34.P HZ3   GLY 83.a HA1   -0.144  2.144
+ALA 233.v CB   GLN 62.A CA    -0.158  3.558
+TRP 34.P CZ2   TRP 84.a CD1   -0.175  3.575
+TRP 34.P CZ3   GLY 83.a O     -0.187  3.367
+TRP 34.P HH2   GLY 83.a H     -0.204  2.204
+ALA 233.v CB   GLN 62.A HG1   -0.214  2.914
+TRP 34.P CH2   GLY 83.a H     -0.241  2.941
+TRP 34.P HZ2   TRP 84.a CD1   -0.253  2.953
+TRP 34.P CH2   GLY 83.a N     -0.269  3.594
+ALA 233.v HB2  GLN 62.A HA    -0.273  2.273
+TRP 34.P NE1   TRP 84.a CZ2   -0.274  3.599
+GLY 81.a O     TRP 34.P CZ2   -0.280  3.460
+TRP 34.P HE1   TRP 84.a CD2   -0.287  2.987
+TRP 34.P HH2   GLY 83.a N     -0.308  2.933
+TRP 34.P CZ2   TRP 84.a NE1   -0.322  3.647
+TRP 34.P CD1   TRP 84.a CE2   -0.333  3.733
+TRP 84.a NE1   TRP 34.P CE2   -0.337  3.662
+GLY 81.a O     TRP 34.P CH2   -0.341  3.521
+GLY 81.a O     TRP 34.P HZ2   -0.344  2.824
+TRP 34.P HH2   GLY 83.a CA    -0.362  3.062
+ALA 233.v HB1  GLN 62.A HA    -0.366  2.366
+TRP 34.P HZ2   TRP 84.a NE1   -0.373  2.998
+PRO 63.A O     ALA 233.v HB2  -0.377  2.857
+TRP 34.P CH2   TRP 84.a N     -0.378  3.703
+HIS 64.A ND1   GLU 224.v CD   -0.390  3.730

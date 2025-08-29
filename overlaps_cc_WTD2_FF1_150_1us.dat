@@ -1,0 +1,13 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+5 contacts
+atom1  atom2  overlap  distance
+ALA 123.M HB2  ASP 170.C OD1  0.112  2.368
+ALA 123.M CB   ASP 170.C OD1  -0.057  3.237
+PRO 140.H HG1  PRO 42.T HG1   -0.113  2.113
+ALA 123.M HB2  ASP 170.C CG   -0.237  2.937
+PRO 140.H HG1  PRO 42.T CG    -0.306  3.006

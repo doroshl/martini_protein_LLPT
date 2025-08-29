@@ -1,0 +1,91 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+83 contacts
+atom1  atom2  overlap  distance
+ARG 139.N O     GLN 189.L 1HE2  0.473  2.007
+GLN 86.v CD     TYR 160.B HH    0.449  2.251
+HIS 99.l O      ALA 136.L HA    0.360  2.120
+ARG 139.N O     GLN 189.L NE2   0.322  2.783
+TYR 160.B HH    GLN 86.v OE1    0.315  2.165
+GLY 97.x O      ARG 40.a NH2    0.286  2.819
+TRP 60.v HH2    HIS 88.K ND1    0.257  2.383
+GLY 97.x C      ARG 40.a NH2    0.197  3.128
+TRP 84.K O      GLY 69.v H      0.188  2.292
+GLN 86.v CG     TYR 160.B HH    0.131  2.569
+TRP 60.v CH2    HIS 88.K ND1    0.123  3.217
+GLY 69.v N      TRP 84.K O      0.090  3.015
+TRP 68.v O      TRP 84.K HZ3    0.086  2.394
+THR 98.x HG1    ARG 40.a NE     0.078  2.547
+TYR 160.B OH    GLN 86.v OE1    0.047  2.933
+TRP 68.v C      TRP 84.K CZ3    0.040  3.360
+GLN 95.x HB1    ARG 40.a NH2    0.026  2.599
+HIS 88.K HB1    TRP 60.v CZ3    0.024  2.676
+TYR 131.C CE2   PRO 63.W HG1    0.013  2.687
+TYR 160.B OH    GLN 86.v CD     0.005  3.195
+HIS 99.l O      ALA 136.L CA    -0.018  3.198
+THR 98.x OG1    ARG 40.a NE     -0.036  3.161
+TRP 60.v CH2    HIS 88.K HB1    -0.053  2.753
+TRP 68.v C      TRP 84.K HZ3    -0.069  2.769
+TRP 68.v O      TRP 84.K CZ3    -0.080  3.260
+TYR 160.B HE2   GLN 86.v NE2    -0.083  2.708
+GLY 85.K O      TRP 68.v H      -0.092  2.572
+TYR 160.B CE2   GLN 86.v OE1    -0.093  3.273
+GLY 97.x CA     ARG 40.a NH2    -0.094  3.419
+GLY 85.K O      TRP 68.v HE3    -0.101  2.581
+LEU 133.C CD1   TRP 60.W CB     -0.131  3.531
+HIS 99.x ND1    THR 36.a 3HG2   -0.139  2.779
+THR 98.x OG1    ARG 40.a CG     -0.142  3.342
+PRO 79.K HG2    GLY 69.v O      -0.144  2.624
+TRP 60.W CZ3    TYR 131.C HB1   -0.157  2.857
+LEU 133.C CD1   TRP 60.W HB2    -0.159  2.859
+GLN 95.x HB1    ARG 40.a 1HH2   -0.166  2.166
+TRP 68.v C      TRP 84.K CE3    -0.168  3.568
+HIS 88.K ND1    TRP 60.v CZ3    -0.181  3.521
+TRP 84.K CZ3    TRP 68.v HB2    -0.182  2.882
+TRP 60.W CZ3    TYR 131.C CB    -0.182  3.582
+TRP 84.K CE3    TRP 68.v HA     -0.185  2.885
+THR 98.x HG1    ARG 40.a CZ     -0.185  2.885
+TYR 160.B CZ    GLN 86.v OE1    -0.191  3.371
+ARG 40.a 2HH2   GLY 97.x O      -0.199  2.679
+TYR 131.C CB    TRP 60.W CH2    -0.201  3.601
+TRP 60.v CH2    HIS 88.K CG     -0.214  3.614
+GLN 86.v CD     TYR 160.B HE2   -0.217  2.917
+TRP 84.K CZ3    TRP 68.v CA     -0.239  3.639
+GLN 86.v CG     TYR 160.B OH    -0.256  3.456
+HIS 88.K CB     TRP 60.v CZ3    -0.259  3.659
+TRP 84.K CE3    TRP 68.v CA     -0.261  3.661
+HIS 88.K CB     TRP 60.v CH2    -0.265  3.665
+TYR 160.B CE2   GLN 86.v CD     -0.271  3.671
+TRP 60.v HH2    HIS 88.K CG     -0.292  2.992
+TYR 131.C HB1   TRP 60.W CH2    -0.293  2.993
+ARG 40.a CZ     GLY 97.x HA2    -0.300  3.000
+GLY 85.K C      TRP 68.v H      -0.304  3.004
+TRP 84.K CH2    TRP 68.v HB2    -0.309  3.009
+GLN 86.v OE1    TYR 160.B HE2   -0.309  2.789
+LEU 133.C 2HD1  TRP 60.W CB     -0.310  3.010
+TYR 131.C CE2   PRO 63.W CG     -0.314  3.714
+GLN 86.v HG1    TYR 160.B HH    -0.315  2.315
+ARG 40.a CZ     GLY 97.x C      -0.318  3.718
+LEU 133.C CD1   TRP 60.W CE3    -0.320  3.720
+TRP 68.v CE3    GLY 85.K O      -0.321  3.501
+LEU 133.C 2HD1  TRP 60.W CG     -0.322  3.022
+PRO 63.W HD2    LEU 133.C CG    -0.326  3.026
+ARG 40.a NH1    GLY 97.x HA2    -0.329  2.954
+ARG 40.a 1HH2   GLY 97.x O      -0.334  2.814
+GLN 95.x CB     ARG 40.a NH2    -0.348  3.673
+GLY 97.x HA2    ARG 40.a NH2    -0.352  2.977
+TRP 68.v CB     TRP 84.K CZ3    -0.354  3.754
+HIS 99.x ND1    THR 36.a CG2    -0.371  3.711
+LEU 133.C 2HD1  TRP 60.W CD2    -0.371  3.071
+LEU 133.C CD2   PRO 63.W HD2    -0.374  3.074
+TRP 60.v HH2    HIS 88.K CE1    -0.375  3.075
+TRP 60.v HZ3    HIS 88.K ND1    -0.380  3.020
+ARG 40.a CZ     GLY 97.x CA     -0.381  3.781
+TYR 160.B CE2   GLN 86.v NE2    -0.383  3.708
+LEU 133.C CD1   GLY 61.W C      -0.388  3.788
+TRP 84.K O      GLY 69.v C      -0.391  3.571
+TYR 131.C HE2   PRO 63.W HG1    -0.394  2.394

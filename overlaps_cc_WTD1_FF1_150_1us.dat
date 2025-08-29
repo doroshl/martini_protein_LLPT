@@ -1,0 +1,71 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+63 contacts
+atom1  atom2  overlap  distance
+GLU 199.n OE2   GLN 55.j HE21   0.788  1.692
+GLU 199.n OE2   GLN 55.j NE2    0.466  2.639
+GLU 199.n CD    GLN 55.j HE21   0.405  2.295
+LYS 25.l NZ     THR 202.O OG1   0.343  2.782
+ARG 27.b NH2    GLY 69.x O      0.302  2.803
+LYS 25.l HZ1    THR 202.O CG2   0.263  2.437
+LYS 25.l HZ3    THR 202.O OG1   0.245  2.255
+GLY 75.A H      ALA 233.M HB1   0.221  1.779
+LYS 25.l HZ3    ASP 205.O OD2   0.205  2.275
+GLY 74.A C      GLY 232.M O     0.167  3.013
+GLY 74.A HA1    ALA 233.M HA    0.148  1.852
+GLN 55.j NE2    GLU 199.n CD    0.147  3.178
+GLY 75.A H      ALA 233.M CB    0.131  2.569
+GLY 74.A CA     ALA 233.M HA    0.124  2.576
+GLN 55.j HE21   GLU 199.n OE1   0.123  2.357
+TRP 93.d CZ3    GLN 86.a O      0.120  3.060
+GLY 74.A CA     GLY 232.M O     0.120  3.060
+ARG 40.N HD1    GLN 222.G OE1   0.119  2.361
+GLY 69.x O      ARG 27.b CZ     0.118  3.062
+LYS 25.l HZ3    THR 202.O HG1   0.117  1.883
+GLN 55.j NE2    GLU 199.n OE1   0.076  3.029
+GLY 38.N O      GLN 222.G HB2   0.074  2.406
+ALA 233.M CA    GLY 74.A HA1    0.052  2.648
+LYS 25.l NZ     THR 202.O CG2   0.029  3.296
+GLY 74.A CA     ALA 233.M CA    0.020  3.380
+LYS 25.l HZ1    THR 202.O OG1   -0.036  2.536
+GLY 74.A HA2    GLY 232.M O     -0.049  2.529
+GLN 226.G NE2   SER 39.N OG     -0.051  3.176
+GLY 75.A N      ALA 233.M CB    -0.055  3.380
+LYS 25.l NZ     THR 202.O HG1   -0.064  2.689
+LYS 25.l HZ1    THR 202.O HG22  -0.078  2.078
+GLY 75.A N      ALA 233.M HB1   -0.089  2.714
+GLY 69.x O      ARG 27.b NH1    -0.090  3.195
+GLY 74.A HA1    ALA 233.M CB    -0.116  2.816
+LYS 25.l NZ     ASP 205.O OD2   -0.127  3.232
+GLN 222.G NE2   ARG 40.N NH1    -0.134  3.384
+GLN 222.G OE1   ARG 40.N NH1    -0.140  3.245
+LYS 25.l HZ1    THR 202.O HG23  -0.146  2.146
+LYS 25.l NZ     THR 202.O HG22  -0.164  2.789
+GLN 226.l HE22  GLN 44.p OE1    -0.164  2.644
+ARG 211.p HH12  GLU 203.h OE1   -0.170  2.650
+LYS 25.l CE     THR 202.O OG1   -0.189  3.389
+GLN 222.G CD    ARG 40.N NH1    -0.206  3.531
+GLN 86.a O      TRP 93.d CH2    -0.208  3.388
+GLN 222.G OE1   ARG 40.N HH12   -0.217  2.697
+ARG 40.N CD     GLN 222.G OE1   -0.232  3.412
+GLY 74.A CA     ALA 233.M CB    -0.240  3.640
+GLU 203.h OE1   ARG 211.p NH1   -0.249  3.354
+TRP 68.x C      ARG 27.b NH1    -0.259  3.584
+GLY 74.A HA1    ALA 233.M HB1   -0.270  2.270
+LYS 25.l NZ     THR 202.O CB    -0.278  3.603
+GLY 75.A N      GLY 232.M O     -0.280  3.385
+GLY 38.N O      GLN 222.G CB    -0.283  3.463
+GLN 55.j CD     GLU 199.n OE1   -0.289  3.469
+LYS 25.l HZ1    THR 202.O CB    -0.303  3.003
+GLN 226.l NE2   GLN 44.p OE1    -0.305  3.410
+GLY 69.x C      ARG 27.b NH2    -0.340  3.665
+GLN 86.a O      TRP 93.d CE3    -0.342  3.522
+GLY 69.x O      ARG 27.b HH22   -0.347  2.827
+TRP 93.d CZ3    PRO 87.a HD2    -0.356  3.056
+GLY 69.x O      ARG 27.b HH21   -0.386  2.866
+TRP 93.d CZ3    PRO 87.a CD     -0.395  3.795
+GLN 222.G HE22  ARG 40.N CZ     -0.399  3.099

@@ -1,0 +1,10 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+2 contacts
+atom1  atom2  overlap  distance
+PHE 276.b CZ   PHE 313.B HB2  -0.290  2.990
+PHE 276.b CE2  PHE 313.B HB2  -0.326  3.026

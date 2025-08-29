@@ -1,0 +1,43 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+35 contacts
+atom1  atom2  overlap  distance
+GLN 230.l HE21  GLY 77.K O      0.598  1.882
+GLN 78.K HE21   GLN 226.l O     0.514  1.966
+GLN 78.K NE2    GLN 226.l O     0.362  2.743
+GLN 78.K NE2    GLN 226.l HA    0.349  2.276
+GLN 230.l NE2   GLY 77.K O      0.344  2.761
+GLN 78.K NE2    GLN 226.l CA    0.259  3.066
+GLN 78.K HE22   TYR 229.l CD2   0.213  2.487
+TRP 68.g CH2    TRP 60.W HD1    0.067  2.633
+GLN 78.K NE2    TYR 229.l HB1   0.065  2.560
+GLN 226.l C     GLN 78.K NE2    0.062  3.263
+TRP 68.g CZ2    TRP 60.W CD1    0.011  3.389
+TRP 68.g CZ2    TRP 60.W HD1    0.008  2.692
+GLN 226.l C     GLN 78.K HE21   0.008  2.692
+GLN 78.K HE22   GLN 226.l HA    -0.001  2.001
+GLN 78.K NE2    TYR 229.l CD2   -0.062  3.387
+TRP 68.g CH2    TRP 60.W CD1    -0.072  3.472
+GLN 78.K HE22   TYR 229.l CG    -0.150  2.850
+GLN 78.K HE22   TYR 229.l HD2   -0.160  2.160
+TRP 60.W NE1    TRP 68.g CZ2    -0.175  3.500
+GLN 78.K CD     GLN 226.l HG1   -0.176  2.876
+GLN 78.K HE22   TYR 229.l HB1   -0.187  2.187
+GLN 78.K NE2    GLN 226.l CB    -0.211  3.536
+GLN 78.K NE2    TYR 229.l CB    -0.216  3.541
+GLN 78.K NE2    TYR 229.l HD2   -0.218  2.843
+GLN 78.K HE21   GLN 226.l CA    -0.238  2.938
+TRP 68.g CZ2    TRP 60.W HE1    -0.249  2.949
+TRP 68.g HH2    TRP 60.W HD1    -0.266  2.266
+GLN 78.K HE22   TYR 229.l CB    -0.268  2.968
+GLN 78.K HE22   GLN 226.l CA    -0.296  2.996
+TRP 68.g HZ2    TRP 60.W CD1    -0.301  3.001
+GLY 77.K C      GLN 230.l HE21  -0.339  3.039
+TRP 68.g HZ2    TRP 60.W HD1    -0.339  2.339
+GLN 78.K OE1    TYR 229.l HD2   -0.342  2.822
+GLN 78.K CD     TYR 229.l HD2   -0.369  3.069
+GLN 78.K OE1    GLN 226.l HG1   -0.370  2.850
