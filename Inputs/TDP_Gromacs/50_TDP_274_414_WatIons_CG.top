@@ -1,0 +1,29 @@
+#include "/martini_3.0.b.3.2/martini_v3.0.b.3.2_pp092_pw103.itp"
+#include "/martini_3.0.b.3.2/martini_v3.0_solvents.itp"
+#include "/martini_3.0.b.3.2/martini_v3.0_ions_.itp"
+#include "molecule_0.itp"
+#include "molecule_1.itp"
+#include "molecule_2.itp"
+#include "molecule_3.itp"
+
+[ system ]
+50 units TDP-43 res-s 274-414 in CG water and 100mM NaCl with modified pp and pw FF
+
+[ molecules ]
+molecule_0    3
+molecule_1    1
+molecule_2    1
+molecule_0    2
+molecule_3    3
+molecule_0    3
+molecule_1    1
+molecule_0    1
+molecule_3    2
+molecule_0    13
+molecule_3    1
+molecule_0    1
+molecule_3    1
+molecule_0    16
+WN          715207
+NA          5263
+CL          5363
