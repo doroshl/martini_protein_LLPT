@@ -6,3 +6,5 @@ This repository contains Gromacs input files, modified Martini forcefields, mode
 - martinize2 (and dssp) for coarse-graining, Python 2 for backmapping
 - ECD (essential collective dynamics code) is available for personal use upon request (ms1@ualberta.ca); 
  + MD analysis
+
+Modified Martini_3.0.b.3.2 FF are in the directory Input/martini_3.0.b.3.2: martini_v3.0.b.3.2_pp092_pw103_ions1029.itp and martini_v3.0.b.3.2_pp092_pw103.itp 
