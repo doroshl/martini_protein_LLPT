@@ -8,3 +8,4 @@ This repository contains Gromacs input files, modified Martini forcefields, mode
  + MD analysis
 
 Modified Martini_3.0.b.3.2 FF are in the directory Input/martini_3.0.b.3.2: martini_v3.0.b.3.2_pp092_pw103_ions1029.itp and martini_v3.0.b.3.2_pp092_pw103.itp 
+VMD scripts to estimate Rgyr and SASA are: Rgyr.tcl and SASA1.4.tcl for AA, and SASA2.1.tcl for CG files.
